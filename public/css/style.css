@@ -116,3 +116,7 @@ footer{
     padding: 10px;
 }
 
+.overflow{
+    overflow: hidden;
+}
+

@@ -1,6 +1,9 @@
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="public/css/form-article.css">
+    <link rel="stylesheet"  href="public/css/index.css">
+    <link rel="stylesheet" href="public/css/show-article.css">
     <script  defer src="public/js/index.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

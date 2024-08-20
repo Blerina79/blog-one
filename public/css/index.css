@@ -1,0 +1,28 @@
+.articles-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.article {
+  flex: 30%;
+  margin: 1rem;
+  min-height: 41rem;
+  cursor: pointer;
+}
+
+.article:hover .img-container{
+    border: 1px solid red;
+    transform: scale(1.2);
+}
+
+.article h2{
+    font-size: 1.7rem;
+}
+
+.img-container {
+    height:30rem;
+    background-size: cover;
+    transition: transform 0.2s;
+}
